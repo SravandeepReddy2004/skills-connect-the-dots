@@ -4,7 +4,6 @@ name: Step 0, Welcome
 # This workflow updates from step 0 to step 1.
 
 # This will run every time we push a commit to `main`.
-#
 on:
   workflow_dispatch:
   push:
